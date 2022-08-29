@@ -8,7 +8,7 @@ const questions = ref([
 	options: [
 		'A framework',
 		'A library',
-		'A type of hat'
+		'A type of has'
 	],
 	selected: null
   },
